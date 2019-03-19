@@ -1,4 +1,4 @@
-# kigoma-sacco
+# welcome to Githubpages kigoma-sacco
 This project is about a tranport service organisation that gives the members a chance to:
   i)  Book a vehicle that is available for various events, picnics, or personal use e.t.c.
   ii) Each vehicle attract adaily service fee which also includes wear and tear.
